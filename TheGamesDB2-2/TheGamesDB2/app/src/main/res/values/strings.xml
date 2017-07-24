@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TheGamesDB2</string>
+    <string name="key_editText" />
+    <string name="search_button">search</string>
+    <string name="go_button">Go</string>
+    <string name="title_textview" />
+    <string name="overview_textview">Overview</string>
+    <string name="genre_textview">Genre  :</string>
+    <string name="Genre_textview2" />
+    <string name="publisher">Publisher :</string>
+    <string name="pub_textview" />
+    <string name="playtrailer_button">Play Trailer</string>
+    <string name="similargames_button">Similar Games</string>
+    <string name="finish_button">Finish</string>
+    <string name="similar_textview" />
+    <string name="finish_button2">Finish</string>
+    <string name="title_txt" />
+    <string name="ov_text">overview</string>
+
+</resources>
